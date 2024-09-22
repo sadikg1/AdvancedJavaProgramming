@@ -10,8 +10,6 @@ public class FocusEventDemo extends JFrame implements FocusListener {
 		 	setTitle("Sadik FocusEvent Frame");
 	        setSize(400, 200);
 	        
-
-
 	        // Create two text fields
 	        textField1 = new JTextField("Click to focus");
 	        textField1.setBounds(50, 50, 120, 30);
